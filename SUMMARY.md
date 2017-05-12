@@ -18,6 +18,7 @@
 
 ## Shell操作指南
 
+* [Unix常用命令](unixchang-yong-ming-ling.md)
 * [Shell三剑客-grep](shellsan-jian-5ba2-grep.md)
 * [Shell三剑客-sed](shellsan-jian-5ba2-sed.md)
 * [Shell三剑客-awk](shellsan-jian-5ba2-awk.md)

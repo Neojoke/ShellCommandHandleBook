@@ -13,6 +13,9 @@
 ## UNIX概述
 
 * [UNIX的程序模型和系统模型](unixgai-shu/cheng-xu-mo-xing-he-xi-tong-mo-xing.md)
+* [系统资源](unixgai-shu/xi-tong-zi-yuan.md)
+* [文件与目录系统](unixgai-shu/wen-jian-yu-mu-lu-xi-tong.md)
+* [用户与程序](unixgai-shu/yong-hu-yu-cheng-xu.md)
 
 ## Shell操作指南
 

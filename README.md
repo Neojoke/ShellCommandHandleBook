@@ -1,4 +1,4 @@
-# Shell Command Handle Book
+# UNIX And Shell Command Handle Book
 
-这是一本shell命令行使用手册，先供自己使用。
+这是一本关于UNIX与SHELL相关的基础知识书籍。
 

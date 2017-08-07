@@ -12,9 +12,7 @@
 
 ## UNIX概述
 
-* 程序模型和系统模型
-* [了解UNIX编程](unixgai-shu/le-jie-unix-bian-cheng.md)
-* [从系统性的角度看UNIX](unixgai-shu/cong-xi-tong-xing-de-jiao-du-kan-unix.md)
+* [UNIX的程序模型和系统模型](unixgai-shu/cheng-xu-mo-xing-he-xi-tong-mo-xing.md)
 
 ## Shell操作指南
 
